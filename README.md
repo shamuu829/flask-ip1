@@ -10,3 +10,18 @@ Password Locker is a terminal run python application that allows users to store 
 $ git clone https://github.com//shamuu829
 
 $ cd pass-locker
+
+## testing the application
+
+.To run the tests:
+
+$ python3.9 user_credentials_test.py
+
+## Technologies used
+
+.python3.9
+
+
+## licence 
+
+MIT (c)2021 shamuu829
