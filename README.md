@@ -15,7 +15,7 @@ $ cd pass-locker
 
 .To run the tests:
 
-$ python3.9 user_credentials_test.py
+$python3 run.py
 
 ## Technologies used
 
